@@ -13,4 +13,10 @@ Medium 500 Italic
 SemiBold 600
 SemiBold 600 Italic
 Bold 700
-*\
+
+font-family: 'Raleway', sans-serif;
+*/
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
