@@ -27,6 +27,11 @@ h2{
     font-size: 5em;
  }
 
+.keystone{
+padding-top: 2em;
+padding-bottom: 2em;
+}
+
  .nameplate {
     text-align: right;
  }
@@ -34,6 +39,10 @@ h2{
  .slogan {
     margin: 4em;
     text-align: left;
+ }
+
+ .about{
+    line-height: 2em;
  }
 
  footer {
