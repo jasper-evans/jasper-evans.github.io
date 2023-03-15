@@ -49,3 +49,14 @@ padding-bottom: 2em;
     text-align: center;
     margin: 4em 0;
  }
+
+ /* "projects page" from here foward */
+
+ .titleimage{
+    padding-top: .5em;
+padding-bottom: .5em;
+ }
+
+ .projectseriese{
+    margin: 8em;
+ }
