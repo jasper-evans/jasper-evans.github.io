@@ -23,7 +23,6 @@ body {
     margin: 3em
 }
 
-
 h2{
     font-size: 5em;
  }
@@ -35,4 +34,9 @@ h2{
  .slogan {
     margin: 4em;
     text-align: left;
+ }
+
+ footer {
+    text-align: center;
+    margin: 4em 0;
  }
