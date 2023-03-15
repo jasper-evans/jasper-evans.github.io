@@ -25,5 +25,14 @@ body {
 
 
 h2{
-    font-size: 4em;
+    font-size: 5em;
+ }
+
+ .nameplate {
+    text-align: right;
+ }
+
+ .slogan {
+    margin: 4em;
+    text-align: left;
  }
