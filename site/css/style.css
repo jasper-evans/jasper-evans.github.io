@@ -20,7 +20,9 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
     line-height: 1.6;
-    margin: 3em
+    margin: 3em;
+    background-color: #F7F5F5;
+        
 }
 
 h2{
@@ -58,11 +60,11 @@ padding-bottom: .5em;
  }
 
  .projectseriese{
-    margin: 8em;
+    margin: 4em;
  }
 
- .projectimage{
-    width: 70%;
-    height: 70%;
-    ;
+ .project{
+    padding-top: 4em;
+    padding-bottom: 4em;
+ 
  }
