@@ -19,7 +19,7 @@ font-family: 'Raleway', sans-serif;
 body {
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 1.7;
     margin: 3em;
     background-color: #F7F5F5;
         
@@ -31,6 +31,8 @@ body {
 
 h2{
     font-size: 5em;
+    letter-spacing: .2em;
+
  }
 
 .keystone{
@@ -77,6 +79,13 @@ padding-bottom: .5em;
  /* resume page from here on */
 
  .experience{
+    margin-top: 3em;
+    margin-bottom: 3em;
+ }
+
+ /* resume page */
+
+ .outreach{
     margin-top: 3em;
     margin-bottom: 3em;
  }
