@@ -25,6 +25,10 @@ body {
         
 }
 
+.navbar{
+    background-color: #F7F5F5;
+ }
+
 h2{
     font-size: 5em;
  }
