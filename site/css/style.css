@@ -27,11 +27,18 @@ body {
 
 .navbar {
     background-color: #F7F5F5;
+    margin-bottom: 1em;
 }
 
 h2 {
     font-size: 5em;
     letter-spacing: .2em;
+    font-weight: 200;
+
+}
+
+h3 { font-size: 3em;
+    letter-spacing: .05em;
 
 }
 
@@ -59,7 +66,7 @@ footer {
     margin: 4em 0;
 }
 
-/* "projects page" from here foward */
+/* projects page */
 
 .titleimage {
     padding-top: .5em;
@@ -76,14 +83,14 @@ footer {
 
 }
 
-/* resume page from here on */
+/* resume page */
 
 .experience {
     margin-top: 3em;
     margin-bottom: 3em;
 }
 
-/* resume page */
+/* contact page */
 
 .outreach {
     margin-top: 3em;
