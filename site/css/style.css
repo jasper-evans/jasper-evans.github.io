@@ -22,70 +22,70 @@ body {
     line-height: 1.7;
     margin: 3em;
     background-color: #F7F5F5;
-        
+
 }
 
-.navbar{
+.navbar {
     background-color: #F7F5F5;
- }
+}
 
-h2{
+h2 {
     font-size: 5em;
     letter-spacing: .2em;
 
- }
-
-.keystone{
-padding-top: 2em;
-padding-bottom: 2em;
 }
 
- .nameplate {
-    text-align: right;
- }
+.keystone {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
 
- .slogan {
+.nameplate {
+    text-align: right;
+}
+
+.slogan {
     margin-top: 2em;
     margin-bottom: 2em;
     text-align: left;
- }
+}
 
- .about{
+.about {
     line-height: 2em;
- }
+}
 
- footer {
+footer {
     text-align: center;
     margin: 4em 0;
- }
+}
 
- /* "projects page" from here foward */
+/* "projects page" from here foward */
 
- .titleimage{
+.titleimage {
     padding-top: .5em;
-padding-bottom: .5em;
- }
+    padding-bottom: .5em;
+}
 
- .projectseriese{
+.projectseriese {
     margin: 4em;
- }
+}
 
- .project{
+.project {
     padding-top: 4em;
     padding-bottom: 4em;
- 
- }
 
- /* resume page from here on */
+}
 
- .experience{
+/* resume page from here on */
+
+.experience {
     margin-top: 3em;
     margin-bottom: 3em;
- }
+}
 
- /* resume page */
+/* resume page */
 
- .outreach{
+.outreach {
     margin-top: 3em;
     margin-bottom: 3em;
- }
+}
