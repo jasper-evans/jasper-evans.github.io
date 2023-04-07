@@ -9,6 +9,7 @@ body {
 h1 {
     font-family: 'Cabin Condensed';
     font-size: 3em, 700;
+    color: #fafafa;
 
 }
 
@@ -34,4 +35,10 @@ h3{
     text-transform: uppercase;
     font-size: .65em;
     letter-spacing: 1.5px;
+    color: #fafafa;
+}
+
+.titlehead {
+    background-color: #0e171a ;
+    
 }
