@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     background-color: #fafafa;
+    
 
     
 
@@ -60,5 +61,9 @@ h4{
 
 .table1 {
     text-align: center;
+    padding: 1em;
 }
 
+.href {
+    color: #0e171a;
+}
