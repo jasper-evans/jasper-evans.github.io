@@ -113,3 +113,14 @@ h4{
 .table2 {
     text-align: center;
 }
+
+.table2 iframe{
+    padding-bottom:2em ;
+}
+
+/* graph2 section */
+
+.graph2 iframe{
+    padding-bottom: 3em;
+}
+
