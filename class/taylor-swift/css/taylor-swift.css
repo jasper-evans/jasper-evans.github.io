@@ -71,7 +71,10 @@ h4{
     padding-bottom: 2em;  
 }
 
+/* timeline section */
 .timeline b{
     background-color: #b2322d;
     color: #fafafa;
 }
+
+.timeline a {}
