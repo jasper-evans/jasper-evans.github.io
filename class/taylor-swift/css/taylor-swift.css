@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     background-color: #fafafa;
+
     
 
 }
@@ -10,12 +11,14 @@ h1 {
     font-family: 'Cabin Condensed';
     font-size: 3em;
     color: #fafafa;
+    font-weight: 700;
 
 }
 
 h2 {
     font-family: 'Cabin Condensed';
     font-size: 1.5em;
+    font-weight: 700;
 
 }
 
@@ -23,12 +26,24 @@ h3 {
     font-family: 'Cabin Condensed';
     font-size: 1.25em;
     text-transform: uppercase;
+    font-weight: 700;
 
 }
 
 h3{ 
     font-family: 'Cabin Condensed';
     font-size: 1.25em;
+    font-weight: 700;
+}
+
+h4{ 
+    font-family: 'Cabin Condensed';
+    font-size: 1.25em;
+    color: #b2322d;
+    padding: 1em;
+    font-weight: 700;
+    
+
 }
 
 .titlehead p {
@@ -42,3 +57,8 @@ h3{
     background-color: #0e171a ;
     
 }
+
+.table1 {
+    text-align: center;
+}
+
