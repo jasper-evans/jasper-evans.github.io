@@ -1,3 +1,16 @@
+/* links */
+a:link{
+    color:#0e171a;
+    text-decoration: underline;
+    text-decoration-color:#b2322d ;
+}
+
+a:hover{
+    color: #b2322d;
+}
+
+
+
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
@@ -77,4 +90,3 @@ h4{
     color: #fafafa;
 }
 
-.timeline a {}
