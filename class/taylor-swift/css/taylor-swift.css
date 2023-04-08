@@ -2,10 +2,13 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     background-color: #fafafa;
-    
+}
+.block1 {
+    padding-top: 4em;
+}
 
-    
-
+.bulletlist1 {
+    padding-bottom: 2em
 }
 
 h1 {
@@ -64,6 +67,8 @@ h4{
     padding: 1em;
 }
 
-.href {
-    color:
+.map1{
+    align-content: center;
+    padding-top:  1em;
+    padding-bottom: 2em;  
 }
