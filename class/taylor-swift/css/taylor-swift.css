@@ -39,7 +39,6 @@ h1 {
     font-size: 3em;
     color: #fafafa;
     font-weight: 700;
-
 }
 
 h2 {
@@ -119,12 +118,19 @@ h4{
     font-size: .95em;
     letter-spacing: 1px;
     color: #fafafa;
-    border-left: 1em solid #b2322d;
+    
 }
 
 .timeline p{
     font-size: .95em;
     padding-top: .75em;
+    
+}
+
+.solidline{
+    border-left: .25em solid #b2322d;
+    padding-left: 1em;
+
 }
 
 /* linechart1 section */
@@ -139,6 +145,10 @@ h4{
     padding-bottom: 2em;
 }
 
+.block5{
+    padding-top: 3em;
+}
+
 /*table2 section*/
 
 .table2 {
@@ -151,7 +161,15 @@ h4{
 
 /* graph2 section */
 
+.graph2 h4{
+    text-align: center;
+    padding-bottom: 2em;
+}
+
 .graph2 iframe{
     padding-bottom: 3em;
 }
 
+footer { text-align: center;
+        font-size: smaller;
+}
