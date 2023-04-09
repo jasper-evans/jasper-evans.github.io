@@ -31,7 +31,7 @@ body {
 }
 
 .bulletlist1 {
-    padding-bottom: 2em
+
 }
 
 h1 {
@@ -88,29 +88,19 @@ h4{
   width: 70%;
 }
 
+
 .table1 {
     text-align: center;
     padding: 1em;
 }
 
-.block2{
-    padding-top: 2em;
-
-}
-
 .map1{
     align-content: center;
     text-align: center;
-    padding-top:  1em;
-    padding-bottom: 2em;  
 }
 
 
 /* timeline section */
-
-.timeline {
-    padding-top: 3em;
-}
 
 .timeline b{
     background-color: #b2322d;
