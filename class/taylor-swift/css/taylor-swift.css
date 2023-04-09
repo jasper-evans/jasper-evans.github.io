@@ -15,15 +15,8 @@ a:hover{
     text-decoration-color:#fafafa;
 }
 
-.titlehead a:hover {
+.titlehead a:hover{
     color: #b2322d;
-}
-
-/*titlehead style*/
-
-.titlehead img {
-    padding: 2em;
-    float: left;
 }
 
 /*body style*/
@@ -89,9 +82,11 @@ h4{
     background-color: #0e171a ;
     
 }
+/*titlehead style*/
 
 .titlehead img{
-    
+  padding: 5px;
+  width: 70%;
 }
 
 .table1 {
@@ -99,11 +94,18 @@ h4{
     padding: 1em;
 }
 
+.block2{
+    padding-top: 2em;
+
+}
+
 .map1{
     align-content: center;
+    text-align: center;
     padding-top:  1em;
     padding-bottom: 2em;  
 }
+
 
 /* timeline section */
 
@@ -113,7 +115,16 @@ h4{
 
 .timeline b{
     background-color: #b2322d;
+    font-weight: 700;
+    font-size: .95em;
+    letter-spacing: 1px;
     color: #fafafa;
+    border-left: 1em solid #b2322d;
+}
+
+.timeline p{
+    font-size: .95em;
+    padding-top: .75em;
 }
 
 /* linechart1 section */
