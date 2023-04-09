@@ -2,13 +2,29 @@
 a:link{
     color:#0e171a;
     text-decoration: underline;
-    text-decoration-color:#b2322d ;
+    text-decoration-color:#b2322d;
 }
 
 a:hover{
     color: #b2322d;
 }
 
+.titlehead a:link{
+    color:#fafafa;
+    text-decoration: underline;
+    text-decoration-color:#fafafa;
+}
+
+.titlehead a:hover {
+    color: #b2322d;
+}
+
+/*titlehead style*/
+
+.titlehead img {
+    padding: 2em;
+    float: left;
+}
 
 /*body style*/
 
@@ -71,6 +87,10 @@ h4{
 
 .titlehead {
     background-color: #0e171a ;
+    
+}
+
+.titlehead img{
     
 }
 
