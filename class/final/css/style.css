@@ -15,12 +15,14 @@ body {
 h1 {
     font-family: 'Playfair Display SC', serif;
     font-size: 4em;
+    font-weight: 500;
     padding-bottom: 1em;
 }
 
 h2 {
     font-family: 'Playfair Display SC', serif;
     font-size: 2em;
+    font-weight: 200;
     padding-top: 1em;
     padding-bottom: 1em;
 }
@@ -40,4 +42,21 @@ h2 {
 
 .title {
     text-align: center;
+}
+
+.main-graphic {
+    padding-top: 2em;
+}
+
+.image img{
+    max-width: 30em;
+    max-height: 30em;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.image p {
+    text-align: center;
+    font-size: smaller;
+    
 }
