@@ -37,3 +37,7 @@ h2 {
 .foot {
     padding: 4em;
 }
+
+.title {
+    text-align: center;
+}
