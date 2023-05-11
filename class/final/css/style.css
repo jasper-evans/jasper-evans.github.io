@@ -60,3 +60,8 @@ h2 {
     font-size: smaller;
     
 }
+
+@media (mx-width: 768px) {
+   body{ 
+        line-height: 1.5;}
+   
