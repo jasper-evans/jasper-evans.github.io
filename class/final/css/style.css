@@ -1,7 +1,5 @@
 /*font-family: 'Playfair Display SC', serif;
-
 font-family: 'Source Sans Pro', sans-serif;*/
-
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 17px;
@@ -11,14 +9,12 @@ body {
     margin-top: 3em;
     background-color: #F8F8F1;
 }
-
 h1 {
     font-family: 'Playfair Display SC', serif;
     font-size: 4em;
     font-weight: 500;
     padding-bottom: 1em;
 }
-
 h2 {
     font-family: 'Playfair Display SC', serif;
     font-size: 2em;
@@ -26,42 +22,34 @@ h2 {
     padding-top: 1em;
     padding-bottom: 1em;
 }
-
 .graphic_one {
     padding-top: 2em;
     padding-bottom: 2em;
 }
-
 .wards {
     padding-top: 3em;
 }
-
 .foot {
     padding: 4em;
 }
-
 .title {
     text-align: center;
 }
-
 .main-graphic {
     padding-top: 2em;
 }
-
-.image img{
+.image img {
     max-width: 30em;
     max-height: 30em;
     margin-left: auto;
-    margin-right: auto;   
+    margin-right: auto;
 }
-
 .image p {
     text-align: center;
     font-size: smaller;
-    
 }
-
-@media (mx-width: 768px) {
-   body{ 
-        line-height: 1.5;}
-   
+@media (max-width: 768px){
+    body{
+        line-height: 1.5;
+    }
+}
