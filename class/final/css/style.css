@@ -5,7 +5,7 @@ font-family: 'Source Sans Pro', sans-serif;*/
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
-    line-height: 1.7;
+    line-height: 1.9;
     margin: 3em;
     background-color: #F8F8F1;
 }
@@ -17,5 +17,7 @@ h1 {
 
 h2 {
     font-family: 'Playfair Display SC', serif;
-    font-size: 1.5em;
+    font-size: 2em;
 }
+
+
