@@ -4,8 +4,8 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 17px;
     line-height: 2.5;
-    margin-left: 5em;
-    margin-right: 5em;
+    margin-left: 2em;
+    margin-right: 2em;
     margin-top: 3em;
     background-color: #F8F8F1;
 }
@@ -31,6 +31,7 @@ h2 {
 }
 .foot {
     padding: 4em;
+    text-align: center;
 }
 .title {
     text-align: center;
@@ -52,4 +53,13 @@ h2 {
     body{
         line-height: 1.5;
     }
+}
+
+@media (max-width:556px) {
+    body{
+        line-height: 1.5; 
+        margin-left: 1em;
+        margin-right: 1em
+    }
+
 }
