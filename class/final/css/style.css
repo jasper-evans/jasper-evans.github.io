@@ -52,6 +52,8 @@ h2 {
 @media (max-width: 768px){
     body{
         line-height: 1.5;
+        margin-left: 1.5em;
+        margin-right: 1.5em
     }
 }
 
